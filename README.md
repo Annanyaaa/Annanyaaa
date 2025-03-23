@@ -36,8 +36,4 @@
 ![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annanyaaa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annanyaaa&layout=compact&theme=radical)
 
----
-
-### ⚡ Fun Fact:
-> I love coding and building projects like the "Hungry Momos" website!
 
