@@ -39,15 +39,16 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 
 **Frameworks:**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 
-**Technologies:**
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+
 
 ---
 
