@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Annanyaaa/Annanyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,22 @@ Here are some ideas to get you started:
 
 ### 💻 Tech Stack:
 **Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+**Technologies:**
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![OOPs](https://img.shields.io/badge/-OOPs%20Concepts-333333?style=flat)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+
 
 **Frameworks:**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
